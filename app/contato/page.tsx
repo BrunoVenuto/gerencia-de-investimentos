@@ -7,7 +7,7 @@ import { Badge } from "@/components/ui/Badge";
 import { PrimaryButton } from "@/components/ui/PrimaryButton";
 import { SecondaryButton } from "@/components/ui/SecondaryButton";
 import { getPage } from "@/lib/cms";
-import { ContactSubmitButton } from "./ContactSubmitButton.client";
+import { ContactSubmitButton } from "./ContactSubmitButton.clint";
 
 type ContactPage = {
   meta: { title: string; description: string };
