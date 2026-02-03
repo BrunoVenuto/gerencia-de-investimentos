@@ -1,5 +1,3 @@
-"use client"
-
 import type { Metadata } from "next";
 
 import { Container } from "@/components/Container";
@@ -9,6 +7,7 @@ import { Badge } from "@/components/ui/Badge";
 import { PrimaryButton } from "@/components/ui/PrimaryButton";
 import { SecondaryButton } from "@/components/ui/SecondaryButton";
 import { getPage } from "@/lib/cms";
+import { ContactSubmitButton } from "./ContactSubmitButton.client";
 
 type ContactPage = {
   meta: { title: string; description: string };
@@ -206,17 +205,8 @@ export default async function ContactPage() {
                   </div>
 
                   <div className="pt-2">
-                    <button
-                      type="button"
-                      className="w-full rounded-full px-5 py-3 text-sm font-medium btn-primary"
-                      onClick={() => {
-                        alert(
-                          "SEO ok. Próximo passo: ligar envio real (API/email/WhatsApp).",
-                        );
-                      }}
-                    >
-                      {page.form.cta.label}
-                    </button>
+                    {/* ✅ botão interativo fica no Client Component */}
+                    <ContactSubmitButton label={page.form.cta.label} />
 
                     <p className="mt-3 text-xs text-white/60">
                       {page.form.helper}
