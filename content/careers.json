@@ -1,0 +1,45 @@
+[
+  {
+    "id": "c1",
+    "slug": "analista-investimentos",
+    "title": "Analista de Investimentos",
+    "area": "Gestão",
+    "location": "São Paulo — SP",
+    "type": "Híbrido",
+    "description": "Atuação no time de gestão com foco em análise de ativos, construção de portfólio e acompanhamento de risco.",
+    "requirements": [
+      "Formação em Economia, Engenharia, Administração ou áreas correlatas",
+      "Conhecimento em mercado financeiro",
+      "Excel avançado",
+      "Desejável CFA nível I"
+    ],
+    "benefits": [
+      "Bônus por performance",
+      "Plano de saúde",
+      "Vale refeição",
+      "Modelo híbrido"
+    ],
+    "publishedAt": "2024-02-20"
+  },
+
+  {
+    "id": "c2",
+    "slug": "estagio-research",
+    "title": "Estágio em Research",
+    "area": "Research",
+    "location": "São Paulo — SP",
+    "type": "Presencial",
+    "description": "Suporte ao time de research com coleta de dados, modelagem e relatórios.",
+    "requirements": [
+      "Graduação em andamento",
+      "Inglês avançado",
+      "Conhecimento em Python é diferencial"
+    ],
+    "benefits": [
+      "Bolsa compatível",
+      "Vale transporte",
+      "Treinamentos internos"
+    ],
+    "publishedAt": "2024-02-10"
+  }
+]

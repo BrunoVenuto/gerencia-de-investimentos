@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  height: 100%;
+  background: #05030a;
+}
+
+/* evita “barra lateral” e layouts quebrados no mobile */
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+@layer components {
+  .hr-voxnava {
+    border-color: rgba(255, 255, 255, 0.08);
+  }
+
+  .card-surface {
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.10);
+    backdrop-filter: blur(10px);
+  }
+
+  .btn-primary {
+    background: linear-gradient(90deg, rgba(236, 72, 153, 0.95), rgba(139, 92, 246, 0.95));
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+  }
+
+  .btn-primary:hover {
+    filter: brightness(1.05);
+  }
+}

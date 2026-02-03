@@ -1,0 +1,40 @@
+[
+  {
+    "id": "l1",
+    "title": "Lâmina Nexa Multimercado — Fev/24",
+    "description": "Resumo de performance, risco e composição da carteira.",
+    "category": "Lâmina",
+    "date": "2024-02-29",
+    "pdf": {
+      "name": "Lamina_Nexa_Multimercado_2024-02.pdf",
+      "url": "/pdfs/Lamina_Nexa_Multimercado_2024-02.pdf",
+      "sizeKb": 850
+    }
+  },
+
+  {
+    "id": "l2",
+    "title": "Apresentação Institucional",
+    "description": "Visão geral da gestora, processos e time.",
+    "category": "Institucional",
+    "date": "2024-01-10",
+    "pdf": {
+      "name": "Apresentacao_Institucional.pdf",
+      "url": "/pdfs/Apresentacao_Institucional.pdf",
+      "sizeKb": 1200
+    }
+  },
+
+  {
+    "id": "l3",
+    "title": "Carta Mensal — Jan/24",
+    "description": "Comentário de mercado e atribuição de performance.",
+    "category": "Carta",
+    "date": "2024-01-31",
+    "pdf": {
+      "name": "Carta_Jan_2024.pdf",
+      "url": "/pdfs/Carta_Jan_2024.pdf",
+      "sizeKb": 640
+    }
+  }
+]

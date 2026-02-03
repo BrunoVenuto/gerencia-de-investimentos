@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "Contato",
+    "description": "Fale com Relações com Investidores. Estamos à disposição para dúvidas sobre fundos, documentos e processos."
+  },
+  "hero": {
+    "eyebrow": "📩 Relações com Investidores",
+    "titleStrong": "Fale com",
+    "titleGradient": "nosso time",
+    "subtitle": "Estamos à disposição para esclarecer dúvidas sobre fundos, documentos e processos. Respostas em até 1 dia útil (horário comercial)."
+  },
+  "channels": [
+    {
+      "label": "E-mail (RI)",
+      "value": "ri@asset.com"
+    },
+    {
+      "label": "Telefone",
+      "value": "+55 (11) 0000-0000"
+    },
+    {
+      "label": "Endereço",
+      "value": "Av. Exemplo, 1000 — São Paulo/SP"
+    }
+  ],
+  "form": {
+    "title": "Envie uma mensagem",
+    "subtitle": "Preencha os campos abaixo. Podemos responder por e-mail ou WhatsApp.",
+    "fields": {
+      "name": { "label": "Nome", "placeholder": "Seu nome completo" },
+      "email": { "label": "E-mail", "placeholder": "seuemail@dominio.com" },
+      "phone": {
+        "label": "Telefone (opcional)",
+        "placeholder": "(00) 00000-0000"
+      },
+      "subject": {
+        "label": "Assunto",
+        "placeholder": "Ex: Dúvidas sobre um fundo"
+      },
+      "message": {
+        "label": "Mensagem",
+        "placeholder": "Escreva sua mensagem..."
+      }
+    },
+    "cta": { "label": "Enviar mensagem" },
+    "helper": "Ao enviar, você concorda em receber retorno do nosso time por e-mail/telefone."
+  },
+  "ctaBox": {
+    "title": "Preferir falar agora?",
+    "subtitle": "Acesse nossa Biblioteca ou conheça os fundos antes do contato.",
+    "primaryCta": { "label": "Ver Fundos", "href": "/fundos" },
+    "secondaryCta": { "label": "Biblioteca", "href": "/biblioteca" }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "title": "Quem somos",
+    "description": "Gestora independente com mentalidade tecnológica, foco em processos institucionais, governança e gestão de risco."
+  },
+  "hero": {
+    "eyebrow": "🏛️ Independência • Processo • Longo prazo",
+    "titleStrong": "Uma gestora construída para",
+    "titleGradient": "consistência e transparência",
+    "subtitle": "Somos uma gestora independente focada na preservação e no crescimento sustentável do patrimônio. Acreditamos que resultados consistentes nascem de método, disciplina na gestão de risco e alinhamento de interesses."
+  },
+  "sections": [
+    {
+      "type": "pillars",
+      "title": "Nossos pilares",
+      "subtitle": "Decisões baseadas em método, governança e comunicação objetiva.",
+      "items": [
+        {
+          "title": "Processo acima de opinião",
+          "description": "Tomada de decisão baseada em análise, dados, ritos de comitê e critérios documentados."
+        },
+        {
+          "title": "Risco primeiro",
+          "description": "Retorno é consequência do controle de risco, diversificação e limites bem definidos."
+        },
+        {
+          "title": "Transparência real",
+          "description": "Documentos e comunicação clara, com foco no que importa para o investidor."
+        },
+        {
+          "title": "Alinhamento",
+          "description": "Atuamos com visão de longo prazo e cultura de responsabilidade."
+        }
+      ]
+    },
+    {
+      "type": "process",
+      "title": "Como investimos",
+      "subtitle": "Um processo disciplinado que atravessa ciclos.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Tese e contexto",
+          "description": "Análise de cenário e construção de hipóteses com base em dados e fundamentos."
+        },
+        {
+          "step": "02",
+          "title": "Seleção e estrutura",
+          "description": "Montagem de posições com mandato claro, limites e racional de risco."
+        },
+        {
+          "step": "03",
+          "title": "Monitoramento contínuo",
+          "description": "Acompanhamento de riscos, eventos e métricas — com revisão periódica."
+        },
+        {
+          "step": "04",
+          "title": "Comunicação",
+          "description": "Publicação de documentos e atualizações em linguagem objetiva."
+        }
+      ]
+    },
+    {
+      "type": "governance",
+      "title": "Governança e controles",
+      "subtitle": "Estrutura preparada para crescer com responsabilidade.",
+      "bullets": [
+        "Comitê de investimentos com ritos definidos",
+        "Políticas de risco documentadas e monitoradas",
+        "Segregação de funções e processos de compliance",
+        "Auditoria e trilhas de decisão"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Quer conhecer nossas estratégias?",
+      "subtitle": "Acesse nossos fundos e documentos oficiais.",
+      "primaryCta": { "label": "Ver Fundos", "href": "/fundos" },
+      "secondaryCta": { "label": "Biblioteca", "href": "/biblioteca" }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "a1",
+    "slug": "carta-do-gestor-fev-2024",
+    "title": "Carta do Gestor — Fevereiro 2024",
+    "excerpt": "Cenário global segue desafiador, com juros elevados e maior seletividade em crédito.",
+    "content": "O mês de fevereiro foi marcado por...\n\nNo Brasil, observamos...\n\nNossa visão para os próximos meses permanece cautelosa...",
+    "category": "Carta Mensal",
+    "publishedAt": "2024-02-29",
+    "author": {
+      "name": "Comitê de Investimentos",
+      "role": "Gestão"
+    }
+  },
+
+  {
+    "id": "a2",
+    "slug": "visao-macro-2024",
+    "title": "Visão Macro para 2024",
+    "excerpt": "Análise das principais tendências econômicas para o ano.",
+    "content": "O ambiente econômico global inicia 2024 com...\n\nNa parte de inflação...\n\nEm renda variável...",
+    "category": "Macro",
+    "publishedAt": "2024-01-18",
+    "author": {
+      "name": "Time de Research",
+      "role": "Economia"
+    }
+  }
+]

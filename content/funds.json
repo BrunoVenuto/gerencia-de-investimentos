@@ -1,0 +1,57 @@
+[
+  {
+    "id": "f1",
+    "slug": "nexa-multimercado",
+    "name": "Nexa Multimercado FIM",
+    "strategy": "Multimercado Macro",
+    "description": "Fundo multimercado com abordagem macro global, combinando estratégias de juros, moedas e bolsa com rigoroso controle de risco e processos institucionais.",
+    "riskLevel": "Moderado",
+    "cnpj": "12.345.678/0001-90",
+    "inceptionDate": "2021-03-15",
+    "administrator": "Banco Administrador S.A.",
+    "manager": "Nexa Asset Management",
+    "custodian": "Banco Custodiante S.A.",
+    "minimumInvestment": "R$ 5.000,00",
+    "targetAudience": "Investidores qualificados",
+    "factsheetPdf": {
+      "name": "Lamina_Nexa_Multimercado_2024-02.pdf",
+      "url": "/pdfs/Lamina_Nexa_Multimercado_2024-02.pdf",
+      "month": "02/2024"
+    },
+    "performance": {
+      "yearToDate": 3.21,
+      "last12Months": 12.4,
+      "volatility": 6.8,
+      "sharpe": 1.12,
+      "cdiPercentage": 118.5
+    }
+  },
+
+  {
+    "id": "f2",
+    "slug": "nexa-credito-privado",
+    "name": "Nexa Crédito Privado FIRF",
+    "strategy": "Crédito Privado",
+    "description": "Fundo focado em crédito corporativo high grade, com análise proprietária, governança e diversificação setorial.",
+    "riskLevel": "Baixo",
+    "cnpj": "98.765.432/0001-10",
+    "inceptionDate": "2022-07-10",
+    "administrator": "Banco Administrador S.A.",
+    "manager": "Nexa Asset Management",
+    "custodian": "Banco Custodiante S.A.",
+    "minimumInvestment": "R$ 1.000,00",
+    "targetAudience": "Público geral",
+    "factsheetPdf": {
+      "name": "Lamina_Nexa_Credito_2024-02.pdf",
+      "url": "/pdfs/Lamina_Nexa_Credito_2024-02.pdf",
+      "month": "02/2024"
+    },
+    "performance": {
+      "yearToDate": 2.01,
+      "last12Months": 10.2,
+      "volatility": 2.1,
+      "sharpe": 1.45,
+      "cdiPercentage": 108.3
+    }
+  }
+]

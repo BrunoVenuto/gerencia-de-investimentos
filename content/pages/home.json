@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "Asset Management",
+    "description": "Gestora de recursos inovadora e tecnológica, com foco em transparência, processos institucionais e gestão de risco."
+  },
+  "hero": {
+    "eyebrow": "✨ Gestão Institucional • Tech-first • Transparência",
+    "titleStrong": "Gestão profissional para",
+    "titleGradient": "investidores exigentes",
+    "subtitle": "Estratégias claras, documentos acessíveis e comunicação objetiva. Uma gestora construída para quem valoriza consistência acima de promessas.",
+    "primaryCta": {
+      "label": "Ver Fundos",
+      "href": "/fundos"
+    },
+    "secondaryCta": {
+      "label": "Ver Docs",
+      "href": "/biblioteca"
+    }
+  },
+  "steps": [
+    {
+      "step": "STEP 01",
+      "pill": "Funds",
+      "title": "Fundos & Estratégias",
+      "description": "Uma página por fundo com informações, lâminas e links centralizados, com mandato e comunicação clara."
+    },
+    {
+      "step": "STEP 02",
+      "pill": "Docs",
+      "title": "Biblioteca de Documentos",
+      "description": "Uploads mensais de lâminas, cartas e apresentações institucionais — tudo em um só lugar."
+    },
+    {
+      "step": "STEP 03",
+      "pill": "Data",
+      "title": "Integrações & Performance",
+      "description": "Estrutura pronta para dados de performance (CVM/API), embeds e componentes customizados com governança."
+    }
+  ],
+  "sections": {
+    "funds": {
+      "title": "Fundos",
+      "subtitle": "Conheça nossas estratégias e acesse documentos de cada fundo.",
+      "actionLabel": "Ver todos",
+      "actionHref": "/fundos"
+    },
+    "articles": {
+      "title": "Artigos",
+      "subtitle": "Cartas, análises e conteúdos institucionais com linguagem clara e objetiva.",
+      "actionLabel": "Ver todos",
+      "actionHref": "/artigos"
+    }
+  }
+}
